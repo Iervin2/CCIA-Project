@@ -1,2 +1,4 @@
 # CCIA-Project
 This repository contains the overhaul of my CSCI591 capstone project in preparation for CSCI592 and its release to the public.
+
+Within the Cyber Initiative folder, you can find the html for the CCIA website for USCA, the css in a seperate folder for that website, an img folder for that website, an empty js folder, and a folder for the GenCyber workshop webpage. Within that folder you can find the home, contact, login, and resource pages in html. You can also find a css folder that contains the css files for those pages, an empty js folder, and an img folder that contains the GenCyber logo, USCA logo, and another folder called contact with all of the contact images. When we release this project, the html files should be php files, and there will be an sql database for the login page to accept or deny credentials that are input. 
